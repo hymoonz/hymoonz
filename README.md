@@ -1,4 +1,15 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)](https://rishavchanda.io)
+<div align="center">
+  <a href="https://discord.com/users/814416430207467522" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="130" height="30" alt="discord logo"  />
+  </a>
+  <a href="https://www.youtube.com/channel/UCXJZTDUbxusH5jeuN_YPIXQ" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="130" height="30" alt="youtube logo"  />
+  </a>
+  <a href="https://www.instagram.com/ramonmonz_" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="130" height="30" alt="instagram logo"  />
+  </a>
+</div>
+
 <h1 align="center">Hi 👋, I'm Ramon Adipramana Hasibullah</h1>
 <h3 align="center">A passionate frontend & backend developer & cyber securify from Indonesia</h3>
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/flflC6GFzO8AAAAd/sultan-alrefaei-programmer.gif">
