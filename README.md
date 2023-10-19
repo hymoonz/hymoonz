@@ -19,9 +19,6 @@
 </div>
 <img align="right" alt="Coding" width="400" src="https://cdn.discordapp.com/attachments/1162819371358486622/1162870664521326602/giphy.gif?ex=653d82b3&is=652b0db3&hm=4558e76f9481914ed1c7935e1d9a40ab3c400f0795c11924e69208986dc4ffd4&">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=hymoonz&label=Profile%20views&color=0e75b6&style=flat" alt="hymoonz" /> </p>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=hymoonz&label=Profile%20views&color=0e75b6&style=flat" alt="hymoonz" /> </p>
-
 - 🔭 I have a cyber team work called [anon cyber team](https://anoncyberteam.or.id/)
 
 - 👯 My Discord Server [831 - a dose of you](https://discord.gg/831)
