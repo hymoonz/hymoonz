@@ -13,11 +13,14 @@
 <h1 align="center">Hi 👋, I'm Ramon Adipramana Hasibullah</h1>
 <h3 align="center">A passionate frontend & backend developer & cyber securify from Indonesia</h3>
 <div align="center">
-<img src="https://komarev.com/ghpvc/?username=hymoonz&label=Profile%20Views&color=0e75b6&style=for-the-badge&label=Prefile+Views" alt="Profile Views"></a>
-<img src="https://img.shields.io/badge/dynamic/json?&label=Total%20Stars&color=0e75b6&style=for-the-badge&query=%24.stars&url=https://api.github-star-counter.workers.dev/user/hymoonz" alt="Profile Stars"></a>
-<img src="https://img.shields.io/badge/dynamic/json?&label=Total%20Forks&color=0e75b6&style=for-the-badge&query=%24.forks&url=https://api.github-star-counter.workers.dev/user/hymoonz" alt="Profile Forks"></a>
+<img src="https://komarev.com/ghpvc/?username=hymoonz&label=Profile%20Views&color=0e75b6&style=flat&label=Profile+Views" alt="Profile Views"></a>
+<img src="https://img.shields.io/badge/dynamic/json?&label=Total%20Stars&color=0e75b6&style=flat&query=%24.stars&url=https://api.github-star-counter.workers.dev/user/hymoonz" alt="Profile Stars"></a>
+<img src="https://img.shields.io/badge/dynamic/json?&label=Total%20Forks&color=0e75b6&style=flat&query=%24.forks&url=https://api.github-star-counter.workers.dev/user/hymoonz" alt="Profile Forks"></a>
 </div>
 <img align="right" alt="Coding" width="400" src="https://cdn.discordapp.com/attachments/1162819371358486622/1162870664521326602/giphy.gif?ex=653d82b3&is=652b0db3&hm=4558e76f9481914ed1c7935e1d9a40ab3c400f0795c11924e69208986dc4ffd4&">
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=hymoonz&label=Profile%20views&color=0e75b6&style=flat" alt="hymoonz" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=hymoonz&label=Profile%20views&color=0e75b6&style=flat" alt="hymoonz" /> </p>
 
 - 🔭 I have a cyber team work called [anon cyber team](https://anoncyberteam.or.id/)
 
